@@ -6,5 +6,5 @@ def speak_to_grandma(phrase)
   else
    return "NO, NOT SINCE 1938!"
 
-   phrase = 'I LOVE YOU GRANDMA!'
-   puts "I LOVE YOU TOO PUMPKIN!"
+   #phrase = 'I LOVE YOU GRANDMA!'
+  # puts "I LOVE YOU TOO PUMPKIN!"
